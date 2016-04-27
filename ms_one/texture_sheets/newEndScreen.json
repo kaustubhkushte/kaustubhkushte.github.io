@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "EndSplash.png",
+	"frame": {"x":1,"y":1,"w":1569,"h":1680},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":1569,"h":1680},
+	"sourceSize": {"w":1569,"h":1681}
+},
+{
+	"filename": "cta_wiso_playable.png",
+	"frame": {"x":1,"y":1683,"w":592,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":592,"h":179},
+	"sourceSize": {"w":592,"h":179}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "newEndScreen.png",
+	"format": "RGBA8888",
+	"size": {"w":1571,"h":1863},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3d5dcbcbc050c5cea2a2d7096c807eef:8b60ccf9153ebd7c083e83c8ba609a86:ee24347330c679ad886b4967a769d8f1$"
+}
+}
